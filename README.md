@@ -17,6 +17,8 @@ $ docker compose exec app ash
 $ npm run start:dev
 ```
 
+http://localhost:12345/
+
 [read more](https://github.com/hoshima-ut/nestjs-development/tree/main/app)
 
 ### 3. stop
