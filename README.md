@@ -19,6 +19,8 @@ $ npm run start:dev
 
 http://localhost:12345/
 
+↑上記実行後にこちらのアクセス確認してください
+
 [read more](https://github.com/hoshima-ut/nestjs-development/tree/main/app)
 
 ### 3. stop
